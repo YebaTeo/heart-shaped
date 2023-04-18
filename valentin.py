@@ -29,6 +29,6 @@ turtle.write("Happy Valentine!", font=("Verdana", 25, "bold"))
 turtle.penup()
 turtle.goto(-80, -70)
 turtle.pendown()
-turtle.write("Cie Jomblo", font=("Verdana", 20, "bold"))
+turtle.write("love you <3", font=("Verdana", 20, "bold"))
 
 turtle.exitonclick()
